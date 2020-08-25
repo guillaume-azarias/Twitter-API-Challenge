@@ -5,6 +5,7 @@
 Donald John Trump, the 45<sup>th</sup> president of the United States, has pioneered the use of social media for political communication in an unprecedent way. The political and socio-economical consequences of his tweets have partly shaped the history of USA, with impacts reaching over a million of dollars for certain companies.
 
 Here, we use the Twitter API and Data Visualization tools to show essential features of Donald Trump's Twitter activity between December 2019 and February 2020:
+
     - Time course of Tweet activity over weekday and daily hours
     - Historical reasons of outstanding tweet activity
     - Linguistic analysis of tweets
@@ -15,16 +16,16 @@ This work was prepared and presented with my colleague [Andrea Festanti](https:/
 
 > Questions: Contact me at guillaume.azarias@hotmail.com
 
-[Slide 1](Twitter_Presentation.001.jpeg)
-[Slide 2](Twitter_Presentation.002.jpeg)
-[Slide 3](Twitter_Presentation.003.jpeg)
-[Slide 4](Twitter_Presentation.004.jpeg)
-[Slide 5](Twitter_Presentation.005.jpeg)
-[Slide 6](Twitter_Presentation.006.jpeg)
-[Slide 7](Twitter_Presentation.007.jpeg)
-[Slide 8](Twitter_Presentation.008.jpeg)
-[Slide 9](Twitter_Presentation.009.jpeg)
-[Slide 10](Twitter_Presentation.010.jpeg)
-[Slide 11](Twitter_Presentation.011.jpeg)
+![Slide 1](Twitter_Presentation.001.jpeg)
+![Slide 2](Twitter_Presentation.002.jpeg)
+![Slide 3](Twitter_Presentation.003.jpeg)
+![Slide 4](Twitter_Presentation.004.jpeg)
+![Slide 5](Twitter_Presentation.005.jpeg)
+![Slide 6](Twitter_Presentation.006.jpeg)
+![Slide 7](Twitter_Presentation.007.jpeg)
+![Slide 8](Twitter_Presentation.008.jpeg)
+![Slide 9](Twitter_Presentation.009.jpeg)
+![Slide 10](Twitter_Presentation.010.jpeg)
+![Slide 11](Twitter_Presentation.011.jpeg)
 
 Thank you for reading !
