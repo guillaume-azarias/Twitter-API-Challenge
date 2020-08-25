@@ -14,3 +14,17 @@ Here, we use the Twitter API and Data Visualization tools to show essential feat
 This work was prepared and presented with my colleague [Andrea Festanti](https://github.com/afestant) at the [Propulsion Academy](https://propulsion.academy/), batch DS 2020 02 :metal:
 
 > Questions: Contact me at guillaume.azarias@hotmail.com
+
+[Slide 1](Twitter_Presentation.001.jpeg)
+[Slide 2](Twitter_Presentation.002.jpeg)
+[Slide 3](Twitter_Presentation.003.jpeg)
+[Slide 4](Twitter_Presentation.004.jpeg)
+[Slide 5](Twitter_Presentation.005.jpeg)
+[Slide 6](Twitter_Presentation.006.jpeg)
+[Slide 7](Twitter_Presentation.007.jpeg)
+[Slide 8](Twitter_Presentation.008.jpeg)
+[Slide 9](Twitter_Presentation.009.jpeg)
+[Slide 10](Twitter_Presentation.010.jpeg)
+[Slide 11](Twitter_Presentation.011.jpeg)
+
+Thank you for reading !
