@@ -11,6 +11,6 @@ Here, we use the Twitter API and Data Visualization tools to show essential feat
     - Average number of retweets (~16 000 times per tweet)
     - Most active retweeters of Donald Trump's tweets
 
-This work was prepared and presented with my colleague [Andrea Festanti](https://github.com/afestant) at the [Propulsion Academy](https://propulsion.academy/), batch DS 2020 02 :v:
+This work was prepared and presented with my colleague [Andrea Festanti](https://github.com/afestant) at the [Propulsion Academy](https://propulsion.academy/), batch DS 2020 02 :metal:
 
 > Questions: Contact me at guillaume.azarias@hotmail.com
