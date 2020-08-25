@@ -14,6 +14,8 @@ This work was prepared and presented together with my colleague [Andrea Festanti
 
 > Questions: Contact me at guillaume.azarias@hotmail.com
 
+
+<!-- ![Algorithm schema](./Presentation/schema.jpg)
 ![Slide 1](Twitter_Presentation.001.jpeg)
 ![Slide 2](Twitter_Presentation.002.jpeg)
 ![Slide 3](Twitter_Presentation.003.jpeg)
@@ -24,6 +26,19 @@ This work was prepared and presented together with my colleague [Andrea Festanti
 ![Slide 8](Twitter_Presentation.008.jpeg)
 ![Slide 9](Twitter_Presentation.009.jpeg)
 ![Slide 10](Twitter_Presentation.010.jpeg)
-![Slide 11](Twitter_Presentation.011.jpeg)
+![Slide 11](Twitter_Presentation.011.jpeg) -->
+
+![Algorithm schema](./Presentation/schema.jpg)
+![Slide 1](./Presentation/Twitter_Presentation.001.jpeg)
+![Slide 2](./Presentation/Twitter_Presentation.002.jpeg)
+![Slide 3](./Presentation/Twitter_Presentation.003.jpeg)
+![Slide 4](./Presentation/Twitter_Presentation.004.jpeg)
+![Slide 5](./Presentation/Twitter_Presentation.005.jpeg)
+![Slide 6](./Presentation/Twitter_Presentation.006.jpeg)
+![Slide 7](./Presentation/Twitter_Presentation.007.jpeg)
+![Slide 8](./Presentation/Twitter_Presentation.008.jpeg)
+![Slide 9](./Presentation/Twitter_Presentation.009.jpeg)
+![Slide 10](./Presentation/Twitter_Presentation.010.jpeg)
+![Slide 11](./Presentation/Twitter_Presentation.011.jpeg)
 
 Thank you for reading !
